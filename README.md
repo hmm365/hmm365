@@ -13,9 +13,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
 </a> -->
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&theme=material&width=49.2%)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&theme=material-palenight&width=49.2%)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=material&width=49.2%)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=material-palenight&width=49.2%)
 <!-- <a href="https://github.com/hmm365/github-stats">
  <img src="https://raw.githubusercontent.com/hmm365/github-stats/output/generated/languages.svg" width=49.2% />
 </a> -->
