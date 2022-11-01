@@ -17,7 +17,7 @@ I'm a self-taught passionate FrontEnd developer from Korea
 | ------------- | ------------- |
 
 <a href="https://github.com/hmm365/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=hmm365&theme=Default&bg_color=ffffff&hide_border=true&line=8A87D0&color=363636" width=98%/>
+<img src="https://activity-graph.herokuapp.com/graph?username=hmm365&theme=Default&bg_color=ffffff&hide_border=true&line=8A87D0&color=363636" width=100%/>
 </a>
 
 <br />
