@@ -1,3 +1,6 @@
+pip install -r requirements.txt
+uvicorn main:app --reload
+
 I'm a self-taught passionate FrontEnd developer from Korea
 
 **About me**
@@ -16,15 +19,6 @@ I'm a self-taught passionate FrontEnd developer from Korea
 | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
-<a href="https://github.com/hmm365/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/hmm365/hmm365.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
 
 <br />
 <br />
