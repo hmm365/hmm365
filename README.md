@@ -1,4 +1,12 @@
-I'm a self-taught passionate FrontEnd developer from Korea
+
+<div align="center">
+<br><br><br>
+
+<!-- Don't just fork or copy it. Star it, please 🥺  -->
+<!-- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Yeonhee.+%E3%80%80%E3%80%80)](https://git.io/typing-svg) -->
+
+ I'm a self-taught passionate FrontEnd developer from Korea
 
 **About me**
 
@@ -12,13 +20,7 @@ I'm a self-taught passionate FrontEnd developer from Korea
 <!-- <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
-<div align="center">
-<br><br><br>
-
-<!-- Don't just fork or copy it. Star it, please 🥺  -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Yeonhee.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
-
+ 
 <br><br><br>
 
 <!-- hmm365's profile -->
@@ -29,7 +31,7 @@ I'm a self-taught passionate FrontEnd developer from Korea
 <a href="https://github.com/hmm365/github-stats">
  <img src="https://raw.githubusercontent.com/hmm365/github-stats/output/generated/languages.svg" width=49.2% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/hmm365/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=hmm365&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
 
