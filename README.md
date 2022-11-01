@@ -17,10 +17,6 @@
  <img src="https://raw.githubusercontent.com/hmm365/github-stats/output/generated/languages.svg" width=49.2% />
 </a>
  
-<!--  <a href="https://github.com/hmm365/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=buefy&hide_border=true" />
- </a> -->
- 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=hmm365&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
