@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Korea 🇮🇳
+I'm a self-taught passionate FrontEnd developer from Korea
 
 **About me**
 
@@ -18,7 +18,7 @@ I'm a self-taught passionate FrontEnd developer from Korea 🇮🇳
 <!-- <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
 
-| <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hmm365's github stats" /></a> | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
@@ -34,7 +34,7 @@ I'm a self-taught passionate FrontEnd developer from Korea 🇮🇳
 <br />
 <br />
 
-<a href="https://codepen.io/hmm365">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+<!-- <a href="https://codepen.io/hmm365">
+  <img align="right" alt="hmm365 | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a> -->
 
