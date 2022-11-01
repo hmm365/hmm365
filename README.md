@@ -27,9 +27,9 @@ I'm a self-taught passionate FrontEnd developer from Korea
 <a href="https://github.com/hmm365/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
-<a href="https://github.com/hmm365/hmm365.github.io">
+<!-- <a href="https://github.com/hmm365/hmm365.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
+</a> -->
 
 <br />
 <br />
