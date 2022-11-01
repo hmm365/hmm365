@@ -25,16 +25,16 @@ I'm a self-taught passionate FrontEnd developer from Korea
 
 
 <a href="https://github.com/hmm365/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmm365&repo=github-readme-stats&theme=buefy" />
 </a>
 <!-- <a href="https://github.com/hmm365/hmm365.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hmm365&repo=hmm365.github.io&theme=buefy" />
 </a> -->
 
 <br />
 <br />
 
 <!-- <a href="https://codepen.io/hmm365">
-  <img align="right" alt="hmm365 | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+  <img align="right" alt="hmm365 | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/hmm365/hmm365/master/assets/codesandbox.svg" />
 </a> -->
 
