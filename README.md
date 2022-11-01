@@ -12,22 +12,34 @@ I'm a self-taught passionate FrontEnd developer from Korea
 <!-- <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
 
+<div align="center">
+<br><br><br>
 
-| <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- Don't just fork or copy it. Star it, please 🥺  -->
 
-<a href="https://github.com/hmm365/github-readme-activity-graph">
-<img src="https://activity-graph.herokuapp.com/graph?username=hmm365&theme=Default&bg_color=ffffff&hide_border=true&line=8A87D0&color=363636" width=100%/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=9D9ED2&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Yeonhee.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
+
+<br><br><br>
+
+<!-- hmm365's profile -->
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff&title_color=918FE0&count_private=true" width=49.2% />
 </a>
-
-<br />
-<br />
-
+<a href="https://github.com/hmm365/github-stats">
+ <img src="https://raw.githubusercontent.com/hmm365/github-stats/output/generated/languages.svg" width=49.2% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=hmm365&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
 
 <a href="https://codepen.io/hmm365">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 
+<br><br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%hmm365&count_bg=%23918FE0&title_bg=%23545454&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
 
 
