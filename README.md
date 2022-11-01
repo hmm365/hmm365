@@ -1,6 +1,3 @@
-pip install -r requirements.txt
-uvicorn main:app --reload
-
 I'm a self-taught passionate FrontEnd developer from Korea
 
 **About me**
@@ -19,7 +16,7 @@ I'm a self-taught passionate FrontEnd developer from Korea
 | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
+<img src="http://mazandi.herokuapp.com/api?handle={hmm365}&theme=warm"/>
 <br />
 <br />
 
