@@ -16,7 +16,10 @@ I'm a self-taught passionate FrontEnd developer from Korea
 | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hmm365&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/hmm365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmm365&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<img src="http://mazandi.herokuapp.com/api?handle={hmm365}&theme=warm"/>
+<a href="https://github.com/hmm365/github-readme-activity-graph">
+<img src="https://activity-graph.herokuapp.com/graph?username=devpla&theme=react-dark&bg_color=ffffff&hide_border=true&line=8A87D0&color=363636" width=98%/>
+</a>
+
 <br />
 <br />
 
@@ -24,3 +27,10 @@ I'm a self-taught passionate FrontEnd developer from Korea
 <a href="https://codepen.io/hmm365">
   <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
+
+
+
+
+
+
+
