@@ -25,7 +25,7 @@
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https:/github-readme-activity-graph.cyclic.app/graph?username=hmm365&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hmm365&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br><br>
 
