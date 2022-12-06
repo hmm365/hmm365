@@ -21,7 +21,7 @@
  <img src="https://raw.githubusercontent.com/hmm365/github-stats/master/generated/languages.svg" width=49.2% />
 </a>
  
-https://github-readme-activity-graph.cyclic.app
+
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https:/github-readme-activity-graph.cyclic.app/graph?username=hmm365&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
 </a>
